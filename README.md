@@ -19,7 +19,7 @@ This is a simple shopping cart application built using Redux. The application al
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ybadr99/shopping-cart-redux.git`
+1. Clone the repository: `git clone https://github.com/ybadr99/redux-shoppingCart.git`
 
 ## Usage
 
