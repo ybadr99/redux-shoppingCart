@@ -29,9 +29,14 @@ This is a simple shopping cart application built using Redux. The application al
 
 Feel free to explore the code and customize the application to fit your needs.
 
+## Live Demo
+Check out the live demo : [Demo Link](https://redux-shopping-cart-hazel.vercel.app/)
+
+
+
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contributing
 
