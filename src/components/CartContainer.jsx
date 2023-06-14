@@ -7,7 +7,6 @@ import { useEffect } from 'react';
 
 const CartContainer = () => {
   const { cartItems, amount, total } = useSelector((state) => state.cart);
-  console.log(cartItems);
   const dispatch = useDispatch();
 
   useEffect(() => {
