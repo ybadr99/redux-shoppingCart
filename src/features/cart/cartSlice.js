@@ -7,7 +7,7 @@ export const getCartItems = createAsyncThunk('cart/getCartItems', () => {
 });
 
 const initialState = {
-  cartItems: getCartItems(),
+  cartItems: [],
   amount: 1,
   total: 0,
   isLoading: true,
